@@ -1,8 +1,8 @@
 # 👾 Bruno Porto
 
-**`Analista de Dados em Formação`**
+**`Desenvolvedor Full Stack`**
 
-Estou começando minha jornada na área de análise de dados, onde busco transformar dados em informações valiosas que melhoram a tomada de decisões. Tenho interesse em explorar e analisar dados para descobrir insights que otimizem processos e estratégias. Estou em busca de oportunidades para trabalhar como Analista de Dados e continuar aprendendo nesse campo fascinante.
+Sou formado em Sistemas de Informação e apaixonado por desenvolver soluções completas, unindo front-end e back-end para criar sistemas eficientes e interfaces intuitivas para web e mobile.
 
 ---
 
