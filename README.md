@@ -10,14 +10,12 @@ Estou começando minha jornada na área de análise de dados, onde busco transfo
 
 <p align="left">
   <img align="left" alt="Power Apps" width="30px" src="https://img.icons8.com/?size=40&id=dFQ55kLSmeny&format=png" />
-  <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="left" alt="Excel" width="30px" src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" />
-  <img align="left" alt="Power BI" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-  <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="left" alt="Notion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
 </p>
+
   
 <br />
 
@@ -37,6 +35,8 @@ Estou começando minha jornada na área de análise de dados, onde busco transfo
 <details>
 <summary><h3>👨‍💻 Minha Jornada</h3></summary>
   
-Ainda não tive a oportunidade de atuar como Analista de Dados formalmente, mas onde trabalho, tenho uma forte atuação com Power Platform e outras tecnologias. Como Analista de Sistemas, meu foco principal envolve gerenciar Firewalls, realizar manutenção de computadores e desenvolver soluções utilizando PowerApps. Durante esse período, descobri minha paixão pela análise de dados enquanto desenvolvia aplicações como sistemas de requisição de reembolso, agendamento de veículos e manutenção, além de um aplicativo para consulta de informações de hardware de notebooks. Esse último permite escanear códigos de barras e exibir dados diretamente no SharePoint. Essas experiências têm ampliado significativamente minha habilidade de programação e despertado meu interesse em me tornar um Analista de Dados.
+Sou formado em Sistemas de Informação e atuo como analista de sistemas, com o objetivo de me tornar um desenvolvedor full-stack. Gosto de criar soluções que conectem front-end e back-end, desenvolvendo interfaces intuitivas e sistemas eficientes para web e mobile.  
+
+Tenho experiência em JavaScript (React, Node.js), HTML, CSS e bancos de dados SQL, além de desenvolver aplicativos no Power Apps para atender demandas específicas. Sou curioso e estou sempre aprendendo para evoluir na área e criar soluções.
 
 </details>
