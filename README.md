@@ -5,8 +5,7 @@
 👨🏻‍💻 Apaixonado por desenvolvimento web, mobile e automações  
 🎓 Formado em **Sistemas de Informação**  
 📚 Atualmente aprendendo mais sobre **JS**, **React**, **Node.js** e **SQL**  
-🛠️ Experiência prática com **Power Platform**, **Power Automate** e **Power Apps**  
-📈 Em transição de carreira para a área de **Fullstack**  
+🛠️ Experiência prática com **Power Platform**, **Power Automate** e **Power Apps**   
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/brunoportob)  
 
 <!-- GitHub stats -->
