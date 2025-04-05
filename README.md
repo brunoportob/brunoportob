@@ -34,5 +34,8 @@
 ### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/brunoportob)
-[![Email](https://img.shields.io/badge/E--mail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:brunoporto8124@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:brunoporto8124@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/bruno.pb1/)
+[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/brunoportob/)
+
 
