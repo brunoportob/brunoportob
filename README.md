@@ -32,15 +32,7 @@
 ---
 
 ### 🌐 Contato
-<p align="left">
-  <a href="https://www.linkedin.com/in/brunoportob" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"/>
-  </a>
-  &nbsp;💼 <a href="https://www.linkedin.com/in/brunoportob">LinkedIn</a>
-</p>
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="24" height="24" alt="Email"/>
-  &nbsp;📫 brunoporto8124@gmail.com
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/brunoportob)
+[![Email](https://img.shields.io/badge/E--mail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:brunoporto8124@gmail.com)
 
