@@ -32,5 +32,15 @@
 ---
 
 ### 🌐 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/brunoportob)
-- 📫 brunoporto8124@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/brunoportob" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"/>
+  </a>
+  &nbsp;💼 <a href="https://www.linkedin.com/in/brunoportob">LinkedIn</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="24" height="24" alt="Email"/>
+  &nbsp;📫 brunoporto8124@gmail.com
+</p>
+
