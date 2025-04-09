@@ -3,9 +3,9 @@
 
 <!-- Sobre mim -->
 👨🏻‍💻 Apaixonado por desenvolvimento web, mobile e automações
-🎓 Formado em **Sistemas de Informação**  
-📚 Atualmente aprendendo mais sobre **JS**, **React** e **Python**  
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/brunoportob)  
+🎓 Formado em **Sistemas de Informação**
+📚 Atualmente aprendendo mais sobre **JS**, **React** e **Python**
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/brunoportob)
 
 <!-- GitHub stats -->
 <div align="center">
