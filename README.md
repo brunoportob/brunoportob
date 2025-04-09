@@ -1,11 +1,10 @@
 ## Hi, I'm Bruno 👋  
-> Desenvolvedor Fullstack
+> Desenvolvedor Full-Stack
 
 <!-- Sobre mim -->
-👨🏻‍💻 Apaixonado por desenvolvimento web, mobile e automações  
+👨🏻‍💻 Apaixonado por desenvolvimento web, mobile e automações 
 🎓 Formado em **Sistemas de Informação**  
-📚 Atualmente aprendendo mais sobre **JS**, **React**, **Node.js** e **SQL**  
-🛠️ Experiência prática com **Power Platform**, **Power Automate** e **Power Apps**   
+📚 Atualmente aprendendo mais sobre **JS**, **React** e **Python**  
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/brunoportob)  
 
 <!-- GitHub stats -->
@@ -26,8 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </p>
+
 
 ---
 
